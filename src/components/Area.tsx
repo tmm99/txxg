@@ -5,11 +5,14 @@ const Area = (props: {areaTree:AreaType []})=>{
 
     console.log('area...', props.areaTree);
     return <>
-     {/* 数据 */}
-   </>
+        <div>
+            <h3>国内病例</h3>
+        </div>
+        <div>
+            <h3>海外国家</h3>
+        </div>
+    </>
 }
-
-export default Area
 
 // export default Area
 // <div>
