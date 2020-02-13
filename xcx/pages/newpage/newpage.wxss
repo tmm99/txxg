@@ -1,0 +1,94 @@
+/* pages/newpage/newpage.wxss */
+/* 
+  小程序中的响应式单位
+  假设宽度750*1334，iphone6，7，8的尺寸，也是绝大多数公司移动端的标准尺寸
+  1rem = 100px;
+  1rpx = 1px;
+
+
+=>无论屏幕宽度怎么变化，1rem = 100rpx
+*/
+.Box{
+  width: 100%;
+  height: 100%;
+}
+.content{
+  width: 240px;
+  height: 400px;
+  /* border:1px solid #ccc; */
+  margin-left: 50px;
+}
+.first{
+  font-size: 14px;
+  margin-left: 20px;
+  color: #ccc;
+}
+.middle{
+  width: 100%;
+  height: 10px;
+}
+.twice{
+  margin-top: 10px;
+   margin-left: 8px;
+   font-size: 20px;
+}
+.btn{
+  margin-top: 20px;
+  display: flex;
+}
+.left{
+  width: 80px;
+  height: 30px;
+  font-size: 10px;
+  line-height: 30px;
+}
+.right{
+  width: 80px;
+  height: 30px;
+  font-size: 10px;
+  line-height: 30px;
+}
+.rl{
+  width: 100px;
+  height: 200px;  
+  margin-left: 60px;
+  margin-top: 50px;
+}
+.tp{
+  width: 50px;
+  height: 10px;
+  background: #eee;
+  margin-left: 25px;
+}
+.space{
+  width: 100%;
+  height: 100px;
+  background: #eee;
+}
+.have{
+  width: 100%;
+  height: 100px;
+  background: greenyellow;
+  color: #ccc;
+  line-height: 100px;
+  text-align: center;
+}
+.txtBox{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.txt{
+  font-size: 12px;
+  
+}
+
+/* 
+  小程序中的响应式单位
+  假设宽度750*1334，iphone6，7，8的尺寸，也是绝大多数公司移动端的标准尺寸
+  1rem = 100px;
+  1rpx = 1px;
+
+
+=>无论屏幕宽度怎么变化，1rem = 100rpx
+*/
+

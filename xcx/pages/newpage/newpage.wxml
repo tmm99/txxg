@@ -1,0 +1,22 @@
+<!--pages/newpage/newpage.wxml-->
+<view class="Box">
+  <view class='content'>
+     <text class='first'>中国现阶段人均寿命900个月</text>
+     <view class='middle'></view>
+     <text class='twice'>1982年9月至今450个月</text>
+     <view class='btn'>
+      <button class='left'>换一个日期</button>
+      <button class='right'>清除记录</button>
+     </view>
+     <view class='rl'>
+      <view class='tp'></view>
+      <view class='space'></view>
+      <view class='have'>50.00%</view>
+     </view>
+     <view class='txtBox'>
+      <text class='txt'>出门走好路,出口说好话,出手做好事</text>
+     </view>
+  </view>
+</view>
+
+   
