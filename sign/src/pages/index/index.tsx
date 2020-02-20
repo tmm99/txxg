@@ -16,7 +16,6 @@ import './index.scss'
 // ref: https://github.com/DefinitelyTyped/DefinitelyTyped/issues/20796
 //
 // #endregion
-// 首页
 
 type PageStateProps = {
   counter: {
